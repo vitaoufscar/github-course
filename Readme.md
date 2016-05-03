@@ -13,3 +13,5 @@ Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
 
 Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido =)
 >>>>>>> 609ec157ebfd05d411991e45f917ad7269dba64e
+
+Outros cursos em : [willian justen cursos](http://willianjusten.teachable.com)
